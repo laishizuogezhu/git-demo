@@ -13,6 +13,7 @@ public class FeiBo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入需要求得斐波那契数：");
+        System.out.println("yang commit"); 
         int i = scanner.nextInt();
         int s = fn(i);
         System.out.println(s);

@@ -16,6 +16,7 @@ public class FeiBo {
         int i = scanner.nextInt();
         int s = fn(i);
         System.out.println(s);
+        System.out.println(s);
     }
 
     private static int fn(int n) {

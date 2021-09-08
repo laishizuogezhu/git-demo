@@ -14,6 +14,7 @@ public class FeiBo {
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入需要求得斐波那契数：");
         System.out.println("yang commit"); 
+        System.out.println("hhhhhcreeper"); 
         int i = scanner.nextInt();
         int s = fn(i);
         System.out.println(s);
